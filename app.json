@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "c55-hw",
+    "slug": "snack-76814cb4-6f94-43d9-8ffe-b54ba54937e1",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "In Class 55, you learned how to play sound using the expo-av library and designed a buzzer button.\n\nIn this project, you will have to practice and apply what you have learned in the class and add some sounds to our DJ audio Mixer App."
+  }
+}
